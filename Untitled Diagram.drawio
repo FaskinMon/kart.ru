@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T07:47:48.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="20.0.1" etag="mS7eCpew7AR3QZPcVpve" type="github"><diagram id="cff5negsVTGFcJb9nXK8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-16T09:52:45.478Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="i1BKghDKGlS3A3s6hXDM" version="20.0.1" type="github">
+  <diagram id="cff5negsVTGFcJb9nXK8" name="Page-1">
+    <mxGraphModel dx="2585" dy="1444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x-bsohOHO2dv-TOyiZb2-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;Employee&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="80" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x-bsohOHO2dv-TOyiZb2-7" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;+ name : string&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="140" width="320" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="x-bsohOHO2dv-TOyiZb2-22" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;__init__(self, name : string):&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;line-height: 115%;&quot; lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;work(self):&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="175" width="320" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="x-bsohOHO2dv-TOyiZb2-23" value="&lt;span lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot; face=&quot;Times New Roman&quot;&gt;Person&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="540" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x-bsohOHO2dv-TOyiZb2-24" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;+name : string&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="600" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x-bsohOHO2dv-TOyiZb2-25" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;__init__(self, name : string):&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;name(self):&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;display_info(self):&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="650" width="300" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="x-bsohOHO2dv-TOyiZb2-26" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=24;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="x-bsohOHO2dv-TOyiZb2-23" target="x-bsohOHO2dv-TOyiZb2-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="500" as="sourcePoint" />
+            <mxPoint x="500" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
